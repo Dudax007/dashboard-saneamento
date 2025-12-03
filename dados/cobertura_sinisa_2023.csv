@@ -1,0 +1,6 @@
+indicador,valor,percentual,descricao
+populacao_total,2898920,100.0,População total do Distrito Federal
+sem_agua_tratada,84204,3.0,População sem acesso à água tratada
+sem_coleta_esgoto,293447,10.3,População sem coleta de esgoto
+com_agua_tratada,2814716,97.0,População com acesso à água tratada
+com_coleta_esgoto,2605473,89.7,População com coleta de esgoto
